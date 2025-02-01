@@ -1,4 +1,4 @@
-# Desafio-de-Projeto---Atualizando-Relat-rio-Financeiro-com-Foco-na-Experi-ncia-do-Usuário (**Incompleto)
+# Desafio-de-Projeto---Atualizando-Relatório-Financeiro-com-Foco-na-Experiência-do-Usuário (**Incompleto)
 Objetivo do desafio:<br>
 Modificar o relatório criativo, o primeiro que criamos juntos, focando na experiência do usuário. Acompanhe o vídeo para que você entenda o que foi feito neste processo.
 Além disso, leve em consideração os seguintes pontos:<br>
